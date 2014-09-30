@@ -19,7 +19,7 @@ Contact | Felix Enriquez
 Twitter | [@eafelix](https://twitter.com/eafelix)
 Email | eafelix[at]outlook.com
 
-## La version Rapida
+## Version Rapida
 
 NodeSchool Buenos Aires se dedica a proporcionar una experiencia libre de acoso por 
 todo el mundo, independientemente de su sexo, orientación sexual, discapacidad, apariencia física, tamaño corporal, 
