@@ -1,13 +1,22 @@
 /* overrides */ 
 
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  color: #0029B1;
+}
+
+a {
+  color: #0029B1;
+}
+
+
 .features-circle { 
-  background-color: #f26b66;
-  border: 6px solid #d82727;
+  background-color: #65839D;
+  border: 6px solid #416383;
 }
 
 .features-item:hover .features-circle {
-  background-color: #AB3375;
-  border-color: #8E1A59;
+  background-color: #504A8C;
+  border-color: #312A6E;
 }
 
 .logo span:first-child {
@@ -21,18 +30,23 @@
 }
 
 .site-header { 
-  border-top: 5px solid #8E1A59;
+  border-top: 0px solid #FFFFFF;
   background-color: #F7F7F7;
   text-shadow: none;
   color: black;
 }
 
+.site-footer {
+  background-color: #75AADB;
+  padding: 50px 0 0 0;
+}
+
 .section-signup {
-  background-color: #8E1A59;
+  background-color: #75AADB;
 }
 
 .site-header .logo { 
-  background-color: rgba(110, 0, 0, 0.5);
+  background-color: rgba(50, 50, 50, 0.5);
 }
 
 
@@ -46,7 +60,7 @@
   background-color: rgb(236,234,213);
 }
 
-/* end color overrides */
+/* end overrides */
 
 .row { max-width: 850px; }
 
@@ -63,11 +77,11 @@ header .row { z-index: 2; position: relative; }
 
 .site-header {
   background-position: 52% -150px;
-  /*background-image: url("../img/berlinbg.jpg");*/
+  background-image: url("../img/bg.jpg");
 }
 
 #subheadline, #subheadline a {
-  color: rgb(80,0,0);
+  color: rgb(12,51, 88);
   background-color: rgba(233, 230, 208, 1);
 }
 
@@ -99,10 +113,6 @@ header .row { z-index: 2; position: relative; }
 
 .footer-info {
   color: white;
-}
-
-.site-footer {
-  background-color: #AF2420;
 }
 
 #whatweuse .two, #whatweuse h2 {
