@@ -76,7 +76,7 @@ header .row { z-index: 2; position: relative; }
 .logo { font-family: 'Droid Sans Mono';}
 
 .site-header {
-  background-position: 52% -150px;
+  background-position: 48.6% 0px;
   background-image: url("../img/bg.jpg");
 }
 
