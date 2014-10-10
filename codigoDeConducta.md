@@ -8,8 +8,8 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 
 ## Ayuda? Contacta al Team
 
-Member           | Twitter                                 | Email
------------------|-----------------------------------------|-------------------
+​ | Member           | Twitter                                 | Email
+-|------------------|-----------------------------------------|-------------------
 [![@a0viedo](https://avatars0.githubusercontent.com/u/2440935?v=2&s=40)](https://github.com/a0viedo) Alejandro Oviedo | [@a0viedo](https://twitter.com/a0viedo) | alejandro.oviedo.g[at]gmail.com
 [![@eafelix](https://avatars0.githubusercontent.com/u/7018093?v=2&s=40)](https://github.com/eafelix) Felix Enriquez | [@eafelix](https://twitter.com/eafelix) | eafelix[at]outlook.com
 [![@bevacqua](https://avatars3.githubusercontent.com/u/934293?v=2&s=40)](https://github.com/bevacqua) Nicolas Bevacqua | [@nzgb](https://twitter.com/nzgb)  | hello[at]bevacqua.io
