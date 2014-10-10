@@ -10,9 +10,9 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 
 Member           | Twitter                                 | Email
 -----------------|-----------------------------------------|-------------------
-[![@a0viedo](https://avatars0.githubusercontent.com/u/2440935?v=2&s=460)](https://github.com/a0viedo) | [@a0viedo](https://twitter.com/a0viedo) | alejandro.oviedo.g[at]gmail.com
-[![@eafelix](https://avatars0.githubusercontent.com/u/7018093?v=2&s=460)](https://github.com/eafelix) | [@eafelix](https://twitter.com/eafelix) | eafelix[at]outlook.com
-[![@bevacqua](https://avatars3.githubusercontent.com/u/934293?v=2&s=460)](https://github.com/bevacqua) | [@nzgb](https://twitter.com/nzgb)  | hello[at]bevacqua.io
+[![@a0viedo](https://avatars0.githubusercontent.com/u/2440935?v=2&s=32)](https://github.com/a0viedo) | [@a0viedo](https://twitter.com/a0viedo) | alejandro.oviedo.g[at]gmail.com
+[![@eafelix](https://avatars0.githubusercontent.com/u/7018093?v=2&s=32)](https://github.com/eafelix) | [@eafelix](https://twitter.com/eafelix) | eafelix[at]outlook.com
+[![@bevacqua](https://avatars3.githubusercontent.com/u/934293?v=2&s=32)](https://github.com/bevacqua) | [@nzgb](https://twitter.com/nzgb)  | hello[at]bevacqua.io
 
 ## Version Rapida
 
