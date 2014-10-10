@@ -34,6 +34,10 @@ a {
   background-color: #F7F7F7;
   text-shadow: none;
   color: black;
+  background-position: 48.4% 0px;
+  background-image: url("../img/bg.jpg");
+  background-size: 166% auto;
+  background-repeat: no-repeat;
 }
 
 .site-footer {
@@ -74,11 +78,6 @@ header .row { z-index: 2; position: relative; }
 .dat { margin-right: 35px; position: relative; top: 20px; }
 
 .logo { font-family: 'Droid Sans Mono';}
-
-.site-header {
-  background-position: 48.6% 0px;
-  background-image: url("../img/bg.jpg");
-}
 
 #subheadline, #subheadline a {
   color: rgb(12,51, 88);
