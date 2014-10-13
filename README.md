@@ -17,7 +17,9 @@ Tutores recuerden agregar sus nombres y contacto dentro del código de conducta!
 
 Actualmente nos encontramos trabajando en las siguientes traducciones:
 - [Learnyounode] (https://github.com/a0viedo/learnyounode)
-- [streams-adventure] (https://github.com/eafelix/stream-adventure)
+- [Streams-adventure] (https://github.com/eafelix/stream-adventure) 
+- [Javascripting] (https://github.com/eafelix/javascripting)
+- [Git-it] (https://github.com/eafelix/git-it)
 
 
 
