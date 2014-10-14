@@ -24,3 +24,9 @@ Actualmente nos encontramos trabajando en las siguientes traducciones:
 
 
 Cualquier idea, puede ser comentada en un issue para abrir la discusión.
+
+
+
+## Sábado 15 de Noviembre
+Hay 40 personas aprox. en lista de espera. Lo que podemos hacer es abrir el cupo hasta un máximo de 65, sólo si contamos con la cantidad adecuada de tutores (de 6 en adelante).
+![distribución de participantes](http://imageshack.com/a/img540/4115/HP2o1T.png)
