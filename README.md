@@ -1,5 +1,6 @@
 buenosaires
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/buenosaires?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Repositorio para organizar y responder preguntas de los eventos realizados en Buenos Aires, Argentina.
 
