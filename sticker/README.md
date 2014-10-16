@@ -6,7 +6,7 @@ Pueden ir agregando, para luego ver cual es el que más nos gusta y representa.
 
 **Ver. 1**
 
-![alt tag](https://github.com/nodeschool/buenosaires/blob/master/sticker/nodeschool-sticker-arg-ver.jpg) 
+![alt tag](https://github.com/nodeschool/buenosaires/blob/master/sticker/nodeschool-sticker-arg.jpg) 
 
 **Ver. 2** 
 
