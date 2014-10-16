@@ -24,6 +24,12 @@ Pueden ir agregando, para luego ver cual es el que más nos gusta y representa.
 
 ![alt tag](https://github.com/nodeschool/buenosaires/blob/master/sticker/nodeschool-sticker-arg-ver5.jpg) 
 
+**Ver. 6** 
+
+![alt tag](https://github.com/nodeschool/buenosaires/blob/master/sticker/nodeschool-sticker-arg-ver6.jpg) 
+
+
+
 Agradecimientos
 ----
 
