@@ -36,7 +36,7 @@ Nombre                  | Descripción
 
 ## Código de Conducta
 
-Encontralo [acá][15]
+Encontralo [acá][15].
 
 [1]: https://help.github.com/articles/using-pull-requests/
 [2]: http://imageshack.com/a/img540/4115/HP2o1T.png
