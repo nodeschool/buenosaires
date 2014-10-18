@@ -34,6 +34,10 @@ Nombre                  | Descripción
 [JSConf Argentina][11]  | JSConf en Argentina
 [BAFrontend][12]        | Front-End User Group en Buenos Aires
 
+## Código de Conducta
+
+Encontralo [acá][15]
+
 [1]: https://help.github.com/articles/using-pull-requests/
 [2]: http://imageshack.com/a/img540/4115/HP2o1T.png
 [3]: https://badges.gitter.im/Join%20Chat.svg
@@ -48,3 +52,4 @@ Nombre                  | Descripción
 [12]: http://www.meetup.com/BAFrontend/
 [13]: https://twitter.com/nodeschoolba
 [14]: http://nodeschool.io/buenosaires/
+[15]: https://github.com/nodeschool/buenosaires/blob/master/codigodeconducta.md
