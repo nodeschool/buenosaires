@@ -36,7 +36,7 @@ Nombre                  | Descripción
 
 [1]: https://help.github.com/articles/using-pull-requests/
 [2]: http://imageshack.com/a/img540/4115/HP2o1T.png
-[3]: https://badges.gitter.im/Join Chat.svg
+[3]: https://badges.gitter.im/Join%20Chat.svg
 [4]: https://gitter.im/nodeschool/buenosaires
 [5]: https://github.com/eafelix/git-it
 [6]: https://github.com/eafelix/javascripting
