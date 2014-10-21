@@ -25,7 +25,7 @@ Si querés ayudar, abrí un issue!
 
 ## Eventos en Buenos Aires
 
-Acá tienen una lista de eventos relacionados a JavaScript en BA. Si sabés de algún otro evento, mandá un [Pull Request] y lo agregamos!
+Acá tienen una lista de eventos relacionados a JavaScript en BA. Si sabés de algún otro evento, mandá un [Pull Request][16] y lo agregamos!
 
 Nombre                  | Descripción
 ------------------------|-----------------------------------------------------------------------------
@@ -53,3 +53,4 @@ Encontralo [acá][15].
 [13]: https://twitter.com/nodeschoolba
 [14]: http://nodeschool.io/buenosaires/
 [15]: https://github.com/nodeschool/buenosaires/blob/master/codigodeconducta.md
+[16]: https://github.com/nodeschool/buenosaires/pulls
