@@ -8,7 +8,7 @@ Buscanos en Twitter como [@nodeschoolba][13], y también está el sitio web en [
 
 ## Próximo Evento
 
-> **Sábado 15 de Noviembre**
+> **Sábado 15 de Noviembre** de 15:00 a 18:00
 
 La inscripción está momentaneamente cerrada ya que tenemos cupos limitados y una buena cantidad de personas en lista de espera. Para más información podés seguirnos en Twitter [@nodeschoolba][13].
 
