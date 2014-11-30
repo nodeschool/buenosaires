@@ -7,5 +7,6 @@ Agradecimientos
 ----
 
 Gracias al team de nodeschool por el template.
+by @eafelix
 
 **Free Software, Hell Yeah!**
