@@ -2,24 +2,28 @@
 
 > Repositorio para organizar y responder preguntas de los eventos realizados en Buenos Aires, Argentina.
 
-Buscanos en Twitter como [@nodeschoolba][13], y también está el sitio web en [nodeschool.io/buenosaires][14]
+Buscanos en Twitter como [@nodeschoolba][13] y también está el sitio web en [nodeschool.io/buenosaires][14]
 
 **Estamos buscando tutores! Si te interesa ayudar, abrinos un issue así charlamos.**
 
 ## Próximo Evento
 
-> **Sábado 15 de Noviembre** de 15:00 a 18:00
 
-La inscripción está momentaneamente cerrada ya que tenemos cupos limitados y una buena cantidad de personas en lista de espera. Para más información podés seguirnos en Twitter [@nodeschoolba][13].
+## Eventos pasados
+
+> **Sábado 15 de Noviembre** de 15:00 a 18:00
 
 ![distribución de participantes][2]
 
-Actualmente nos encontramos trabajando en las siguientes traducciones.
+Para más información podés seguirnos en Twitter [@nodeschoolba][13].
 
-- [LearnYouNode][7]
-- [stream-adventure][8] 
-- [Javascripting][6]
-- [git-it][5]
+
+## Traducciones
+Contamos con los siguientes workshops traducidos al español:
+
+- [learnyounode][7]
+- [javascripting][6]
+- [stream-adventure][8]
 
 Si querés ayudar, abrí un issue!
 
@@ -43,7 +47,7 @@ Encontralo [acá][15].
 [3]: https://badges.gitter.im/Join%20Chat.svg
 [4]: https://gitter.im/nodeschool/buenosaires
 [5]: https://github.com/eafelix/git-it
-[6]: https://github.com/eafelix/javascripting
+[6]: https://github.com/a0viedo/javascripting/tree/es
 [7]: https://github.com/a0viedo/learnyounode
 [8]: https://github.com/eafelix/stream-adventure
 [9]: http://www.meetup.com/Meetup-js/
