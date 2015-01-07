@@ -15,8 +15,6 @@ Buscanos en Twitter como [@nodeschoolba][13] y también está el sitio web en [n
 
 ![distribución de participantes][2]
 
-Para más información podés seguirnos en Twitter [@nodeschoolba][13].
-
 
 ## Traducciones
 Contamos con los siguientes workshops traducidos al español:
