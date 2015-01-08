@@ -235,9 +235,9 @@ h6 {
 }
 
 /*=====================================================
- 
+
   Links & Paragraph styles
-  
+
   ======================================================*/
 p {
   font-family: anaheimregular, sans-serif;
@@ -273,7 +273,7 @@ a:hover {
 /*=====================================================
 
   Lists
-  
+
  ======================================================*/
 ul, ol {
   margin-bottom: 0.273em;
@@ -8172,7 +8172,7 @@ table.rounded > tbody:first-child tr:first-child td {
 
 /****************
 *
-* Reel v1.0 
+* Reel v1.0
 * -------------
 *
 * Simple, Responsive App Showcase
@@ -8183,7 +8183,7 @@ table.rounded > tbody:first-child tr:first-child td {
 /**
 * Reusable animations & classes
 * Animations can be attached to any element using a class with their name.
-* Also included in this section are global utility classes, 
+* Also included in this section are global utility classes,
 * such as .screen-reader-text.
 *****************************************************/
 /* Utility classes
@@ -8192,11 +8192,11 @@ table.rounded > tbody:first-child tr:first-child td {
   display: none;
 }
 
-/** 
+/**
 * Reusable Noise Class
 * Will add transparent noise to
 * any element with this class.
-* For more details: 
+* For more details:
 * http://www.mightymeta.co.uk/css-noise/
 *****************/
 .noise {
@@ -8224,7 +8224,7 @@ input::-moz-focus-inner {
   padding: 0;
 }
 
-/** 
+/**
 * Custom Form Components
 *****************/
 .catch-errors-top, .catch-errors-bot {
@@ -8263,7 +8263,7 @@ input::-moz-focus-inner {
   margin-top: 30px;
 }
 
-/** 
+/**
 * Custom Scrollbar
 *****************/
 ::-webkit-scrollbar {
@@ -8874,9 +8874,9 @@ input::-moz-focus-inner {
   }
 }
 
-/** 
-* Associate keyframe animations with classes. 
-* Default animation time = 1 second. 
+/**
+* Associate keyframe animations with classes.
+* Default animation time = 1 second.
 *****************/
 .fadeIn {
   opacity: 1;
@@ -8932,7 +8932,7 @@ input::-moz-focus-inner {
 *****************************************************/
 .site-header {
   background-color: #2b3848;
-  /** 
+  /**
   * Add your custom background image for a cool parallax effect.
   * background-image:url('img/your-header-background-image.png')
   *****************/
@@ -9102,7 +9102,7 @@ input::-moz-focus-inner {
 }
 
 /**
-* Main Content & Section General Styles 
+* Main Content & Section General Styles
 * Applied globally across the main content area.
 *****************************************************/
 .site-section {
@@ -9111,7 +9111,7 @@ input::-moz-focus-inner {
 }
 
 /**
-* Features Section 
+* Features Section
 *****************************************************/
 .features-item {
   display: inline-block;
@@ -9352,14 +9352,14 @@ input::-moz-focus-inner {
 }
 
 /**
-* Site Footer 
+* Site Footer
 *****************************************************/
 .site-footer {
   background-color: #2b3848;
   padding: 50px 0;
 }
 .site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {
-  color: #ffffff;
+  color: #333;
 }
 
 .footer-info {

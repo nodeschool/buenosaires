@@ -1,4 +1,4 @@
-/* overrides */ 
+/* overrides */
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: #0029B1;
@@ -9,7 +9,7 @@ a {
 }
 
 
-.features-circle { 
+.features-circle {
   background-color: #65839D;
   border: 6px solid #416383;
 }
@@ -29,27 +29,28 @@ a {
   white-space: nowrap;
 }
 
-.site-header { 
+.site-header {
   border-top: 0px solid #FFFFFF;
   background-color: #F7F7F7;
   text-shadow: none;
   color: black;
   background-position: 48.4% 0px;
-  background-image: url("../img/bg-compressed.jpg");
+  background-image: url("http://static.mlstatic.com/org-img/events/nodeschool/bg-compressed.jpg");
   background-size: 166% auto;
   background-repeat: no-repeat;
 }
 
 .site-footer {
-  background-color: #75AADB;
+  background-color: #FFF;
   padding: 50px 0 0 0;
+  border-top: 1px solid #dedede;
 }
 
 .section-signup {
   background-color: #75AADB;
 }
 
-.site-header .logo { 
+.site-header .logo {
   background-color: rgba(50, 50, 50, 0.5);
 }
 
@@ -105,13 +106,13 @@ header .row { z-index: 2; position: relative; }
 }
 
 .footer-info a {
-  text-decoration: underline;
-  color: white;
+  text-decoration: none;
+  color: #0029B1;
 }
 
 
 .footer-info {
-  color: white;
+  color: #333;
 }
 
 #whatweuse .two, #whatweuse h2 {
