@@ -1,0 +1,862 @@
+html,
+body,
+div,
+span,
+h1,
+h3,
+h4,
+p,
+a,
+i,
+ul,
+li,
+header,
+section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+html {
+  line-height: 1;
+}
+
+ul {
+  list-style: none;
+}
+
+header,
+section {
+  display: block;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.625em;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background: white;
+  font-family: anaheimregular, sans-serif;
+  font-weight: 400;
+  color: #555555;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media only screen and (max-width: 767px) {
+  body {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    width: 100%;
+    min-width: 0;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+/* Fonts */
+
+@font-face {
+  font-family: "entypo";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/icons/entypo.eot);
+  src: url("../fonts/icons/entypo.eot?#iefix") format("ie9-skip-eot"), url("../fonts/icons/entypo.woff") format("woff"), url("../fonts/icons/entypo.ttf") format("truetype");
+}
+
+h1,
+h3,
+h4 {
+  font-family: dosisregular, sans-serif;
+  font-weight: 100;
+  color: #444444;
+  text-rendering: optimizeLegibility;
+  padding-top: 0.273em;
+  line-height: 1.15538em;
+  padding-bottom: 0.273em;
+}
+
+h4 a {
+  color: #ca2470;
+}
+
+@media only screen and (max-width: 767px) {
+  h1,
+  h3,
+  h4 {
+    word-wrap: break-word;
+  }
+}
+
+h1 {
+  font-size: 68px;
+  font-size: 4.25rem;
+}
+
+h3 {
+  font-size: 30px;
+  font-size: 1.875rem;
+}
+
+h4 {
+  font-size: 26px;
+  font-size: 1.625rem;
+}
+
+@media only screen and (max-width: 767px) {
+  h1 {
+    font-size: 42px;
+    font-size: 2.625rem;
+  }
+}
+
+/*=====================================================
+ 
+  Links & Paragraph styles
+  
+  ======================================================*/
+
+p {
+  font-family: anaheimregular, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  font-size: 1rem;
+  margin-bottom: 13px;
+  line-height: 1.625em;
+}
+
+@media only screen and (max-width: 768px) {
+  p {
+    font-size: 17.6px;
+    font-size: 1.1rem;
+    line-height: 1.625em;
+  }
+}
+
+a {
+  color: #ca2470;
+  text-decoration: none;
+  outline: 0;
+  line-height: inherit;
+}
+
+a:hover {
+  color: #c03d20;
+}
+
+/*=====================================================
+
+  Lists
+  
+ ======================================================*/
+
+ul {
+  margin-bottom: 0.273em;
+}
+
+ul {
+  list-style: none outside;
+}
+
+li {
+  padding-bottom: 0.273em;
+}
+
+@media only screen and (max-width: 768px) {
+  ul,
+  p {
+    text-align: left;
+  }
+}
+
+/* Mobile */
+
+/*  Blockquotes  */
+
+/**
+   * Print styles.
+ *
+ * Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+ * Credit to Paul Irish and HTML5 Boilerplate (html5boilerplate.com)
+ */
+
+@media print {
+  * {
+    background: transparent !important;
+    color: black !important;
+    text-shadow: none !important;
+    filter: none !important;
+    -ms-filter: none !important;
+  }
+
+  /* Black prints faster: sanbeiji.com/archives/953 */
+
+  p a {
+    color: #555555 !important;
+    text-decoration: underline;
+  }
+
+  p a:visited {
+    color: #555555 !important;
+    text-decoration: underline;
+  }
+
+  p a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  /* Don't show links for images, or javascript/internal links */
+
+  /* css-discuss.incutio.com/wiki/Printing_Tables */
+
+@page {
+    margin: 0.5cm;
+}
+
+  p,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h3 {
+    page-break-after: avoid;
+  }
+}
+
+/*=================================================
+
+  +++ LE GRID +++
+  A Responsive Grid -- Gumby defaults to a standard 960 grid,
+  but you can change it to whatever you'd like.
+
+ ==================================================*/
+
+/*.container {
+  padding: 0px $gutter-in-px;
+}*/
+
+.row {
+  width: 100%;
+  max-width: 1000px;
+  min-width: 320px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* To fix the grid into a different size, set max-width to your desired width */
+
+.columns {
+  margin-left: 2.08333%;
+  float: left;
+  min-height: 1px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.columns:first-child {
+  margin-left: 0px;
+}
+
+/* Column Classes */
+
+.row .eight.columns {
+  width: 65.97222%;
+}
+
+.row .twelve.columns {
+  width: 100%;
+}
+
+/* Push and Pull Classes */
+
+/* Centered Classes */
+
+.row .eight.centered {
+  margin-left: 17.01389%;
+}
+
+/* Hybrid Grid Columns */
+
+/* Hybrid Push and Pull Classes */
+
+/* Hybrid Centered Classes */
+
+/* Tile Grid */
+
+/* Nicolas Gallagher's micro clearfix */
+
+.row {
+  *zoom: 1;
+}
+
+.row:before,
+.row:after {
+  content: "";
+  display: table;
+}
+
+.row:after {
+  clear: both;
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 767px) {
+  body {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    width: 100%;
+    min-width: 0;
+  }
+
+  .row {
+    width: 100%;
+    min-width: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .row .centered {
+    margin-left: 0 !important;
+  }
+
+  .columns {
+    width: auto !important;
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .columns:last-child {
+    margin-right: 0;
+    float: none;
+  }
+
+  [class*="column"]:before {
+    display: table;
+  }
+
+  [class*="column"]:after {
+    display: table;
+    clear: both;
+  }
+}
+
+/*=====================================================
+
+   Navigation (with dropdowns)
+
+ ======================================================*/
+
+/* Buttons */
+
+/* Icons */
+
+i[class^="icon-"] {
+  font-family: "entypo";
+  position: absolute;
+  text-decoration: none;
+  zoom: 1;
+}
+
+i[class^="icon-"] {
+  display: inline-block;
+  position: static;
+  min-width: 20px;
+  margin: 0 5px;
+  text-align: center;
+}
+
+i.icon-heart:before {
+  content: "\2665";
+  height: inherit;
+}
+
+i.icon-tools:before {
+  content: "\2692";
+  height: inherit;
+}
+
+i.icon-ticket:before {
+  content: "🎫";
+  height: inherit;
+}
+
+i.icon-rocket:before {
+  content: "🚀";
+  height: inherit;
+}
+
+/* Form Styles */
+
+.field.danger input:-moz-placeholder,
+.field.danger textarea:-moz-placeholder {
+  color: #ca3838;
+}
+
+.field.warning input:-moz-placeholder,
+.field.warning textarea:-moz-placeholder {
+  color: #f6b83f;
+}
+
+.field.success input:-moz-placeholder,
+.field.success textarea:-moz-placeholder {
+  color: #58c026;
+}
+
+/* Form Picker Element (<select>) */
+
+.picker select::-ms-expand {
+  display: none;
+}
+
+/* Labels */
+
+/* Tabs */
+
+/* Tooltips */
+
+.parallax {
+  background-attachment: fixed !important;
+}
+
+/* shame */
+
+/****************
+*
+* Reel v1.0 
+* -------------
+*
+* Simple, Responsive App Showcase
+* AUTHOR: SterlingThemes.com
+* CUSTOM REEL STYLES
+*
+**************************************************************************/
+
+/**
+* Reusable animations & classes
+* Animations can be attached to any element using a class with their name.
+* Also included in this section are global utility classes, 
+* such as .screen-reader-text.
+*****************************************************/
+
+/* Utility classes
+*****************/
+
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/** 
+* Custom Form Components
+*****************/
+
+.catch-errors-top {
+  display: none;
+}
+
+/**
+* Site Header
+*****************************************************/
+
+.site-header {
+  background-color: #2b3848;
+  /** 
+  * Add your custom background image for a cool parallax effect.
+  * background-image:url('img/your-header-background-image.png')
+  *****************/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  color: #fff;
+  border-top: 5px solid #20b24b;
+  text-shadow: 0 2px 2px rgba(0,0,0,0.6);
+}
+
+.logo {
+  font-weight: 900;
+  font-size: 90px;
+  color: #fff;
+}
+
+.header-intro-wrap {
+  padding-left: 30px;
+  padding-top: 180px;
+}
+
+.header-intro-wrap p {
+  font-size: 24px;
+}
+
+@media screen and (max-width: 767px) {
+  .header-intro-wrap p {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .header-intro-wrap {
+    padding-left: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header-intro-wrap {
+    padding-top: 0;
+    text-align: center;
+  }
+}
+
+.btn-side {
+  padding: 20px;
+  display: inline-block;
+  font-family: anaheimregular, sans-serif;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.btn-side {
+  width: 25%;
+  margin-left: -5px;
+  border: 5px solid #20b24b;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 600;
+  background-color: #20b24b;
+  -webkit-appearance: none;
+  padding-left: 0;
+  padding-right: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
+  border-radius: 0;
+}
+
+.btn-side:hover {
+  cursor: pointer;
+  background-color: #f18f2b;
+  border-color: #f18f2b;
+  color: #333;
+}
+
+.btn-side:active {
+  background-color: #e73e2c;
+  border-color: #e73e2c;
+}
+
+@media screen and (max-width: 500px) {
+  .btn-side {
+    font-size: 17px;
+    padding-top: 21px;
+  }
+}
+
+/**
+* Main Content & Section General Styles 
+* Applied globally across the main content area.
+*****************************************************/
+
+.site-section {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+/**
+* Features Section 
+*****************************************************/
+
+.features-item {
+  display: inline-block;
+  float: left;
+  padding-left: 1.04167%;
+  padding-right: 1.04167%;
+  padding: 0 15px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 320px) {
+  .features-item {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .features-item {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  .features-item {
+    width: 33.33333%;
+  }
+}
+
+.features-item:hover .features-circle {
+  background-color: #f18f2b;
+  border-color: #c03d20;
+  border-width: 8px;
+}
+
+.features-item:hover .features-circle-icon {
+  font-size: 80px;
+}
+
+.features-item h3 {
+  margin-bottom: 15px;
+}
+
+.features-item p {
+  font-weight: 300;
+  text-align: center;
+}
+
+@media screen and (max-width: 960px) {
+  .features-item {
+    margin-bottom: 60px;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+
+  .features-item:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .features-item {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.features-circle {
+  display: block;
+  position: relative;
+  border-radius: 50%;
+  background-color: #20b24b;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto 30px auto;
+  border: 6px solid rgba(211, 41, 24, 0.3);
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.features-circle-icon {
+  position: absolute;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  left: 50%;
+  top: 50%;
+  margin-left: -50px;
+  margin-top: -50px;
+  color: #fff;
+  font-size: 60px;
+  display: table;
+  transition: all 0.3s ease;
+}
+
+.features-circle-icon i {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/**
+* Testimonials Section
+*****************************************************/
+
+/**
+* Sign-Up Section
+*****************************************************/
+
+.section-signup {
+  background-color: #20b24b;
+  text-align: center;
+}
+
+.signup-title {
+  color: #fff;
+  font-weight: 300;
+  font-size: 45px;
+}
+
+.signup-form {
+  margin-top: 50px;
+}
+
+.signup-form .btn-side {
+  width: 50%;
+  background-color: transparent;
+  border: 5px solid #fff;
+}
+
+.signup-form .btn-side:hover {
+  border-color: #f18f2b;
+  background-color: #f18f2b;
+}
+
+.signup-form .btn-side:active {
+  border-color: #1e2732;
+  background-color: #1e2732;
+}
+
+@media screen and (max-width: 540px) {
+  .signup-form .btn-side {
+    width: 100%;
+    margin-top: 20px;
+  }
+}
+
+/**
+* Site Footer 
+*****************************************************/
+
+/* overrides */
+
+h4 a {
+  color: #0029B1;
+}
+
+a {
+  color: #0029B1;
+}
+
+.features-circle {
+  background-color: #65839D;
+  border: 6px solid #416383;
+}
+
+.features-item:hover .features-circle {
+  background-color: #504A8C;
+  border-color: #312A6E;
+}
+
+.logo {
+  color: rgb(253, 232, 230);
+  white-space: nowrap;
+}
+
+.site-header {
+  border-top: 0px solid #FFFFFF;
+  background-color: #F7F7F7;
+  text-shadow: none;
+  color: black;
+  background-position: 48.4% 0px;
+  background-image: url("../img/bg-compressed.jpg");
+  background-size: 166% auto;
+  background-repeat: no-repeat;
+}
+
+.section-signup {
+  background-color: #75AADB;
+}
+
+.site-header .logo {
+  background-color: rgba(50, 50, 50, 0.5);
+}
+
+.signup-form .btn-side {
+  text-decoration: none;
+}
+
+.signup-form .btn-side:hover {
+  border-color: rgb(236,234,213);
+  color: rgb(92,0,50);
+  background-color: rgb(236,234,213);
+}
+
+/* end overrides */
+
+.row {
+  max-width: 850px;
+}
+
+header {
+  position: relative;
+}
+
+header .row {
+  z-index: 2;
+  position: relative;
+}
+
+.section-signup {
+  color: white;
+}
+
+.section-signup a {
+  color: white;
+  text-decoration: underline;
+}
+
+.logo {
+  font-family: 'Droid Sans Mono';
+}
+
+#subheadline,
+#subheadline a {
+  color: rgb(12,51, 88);
+  background-color: rgba(233, 230, 208, 1);
+}
+
+#subheadline a {
+  text-decoration: underline;
+}
+
+.header-intro-wrap {
+  padding-bottom: 110px;
+  padding-top: 110px;
+  text-align: center;
+}
+
+.header-intro-wrap p {
+  font-size: 28px;
+  background-color: #f7f7f7;
+}
+
+@media screen and (max-width: 468px) {
+  .logo {
+    font-size: 50px;
+  }
+
+
+
+  .header-intro-wrap p {
+    margin-top: 24px;
+  }
+
+  .header-intro-wrap {
+    padding-bottom: 50px;
+  }
+}
+
+.site-footer {
+  padding-bottom: 20px;
+}
