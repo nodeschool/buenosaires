@@ -7,7 +7,7 @@ Buscanos en Twitter como [@nodeschoolba][13] y también está el sitio web en [n
 **Estamos buscando tutores! Si te interesa ayudar, abrinos un issue así charlamos.**
 
 ## Próximo Evento
-
+**Sábado 24 de Enero** de 15:00 a 18:00 - Nodeschool for Girls: [Quiero registrarme][17]
 
 ## Eventos pasados
 
@@ -56,3 +56,4 @@ Encontralo [acá][15].
 [14]: http://nodeschool.io/buenosaires/
 [15]: https://github.com/nodeschool/buenosaires/blob/master/codigodeconducta.md
 [16]: https://github.com/nodeschool/buenosaires/pulls
+[17]: https://ti.to/nodeschoolba/nodeschool-ba-for-girls
