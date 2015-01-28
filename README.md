@@ -10,6 +10,7 @@ Buscanos en Twitter como [@nodeschoolba][13] y también está el sitio web en [n
 
 ## Eventos pasados
 > **Sábado 24 de Enero** de 15:00 a 18:00 - Nodeschool for Girls
+
 > **Sábado 15 de Noviembre** de 15:00 a 18:00
 
 ![distribución de participantes][2]
