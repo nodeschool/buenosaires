@@ -11,6 +11,12 @@ Buscanos en Twitter como [@nodeschoolba][13] y también está el sitio web en [n
 ## Eventos pasados
 > **Sábado 24 de Enero** de 15:00 a 18:00 - Nodeschool for Girls
 
+![expectativa participantes][17]
+
+Llevamos a cabo el último evento y la encuesta entregó datos interesante que queríamos compartirlos con Uds. 
+
+Ya que una gran cantidad de participantes concurren a estos workshops para escuchar charlas sobre Node.js y sus nuevas tendencias, estamos trabajando en reestructurar el workshop para cubrir estas expectativas así como también seguir fomentando que las participantes pongan manos a la obra experimentando con las actividades de nodeschool.
+
 > **Sábado 15 de Noviembre** de 15:00 a 18:00
 
 ![distribución de participantes][2]
@@ -56,3 +62,4 @@ Encontralo [acá][15].
 [14]: http://nodeschool.io/buenosaires/
 [15]: https://github.com/nodeschool/buenosaires/blob/master/codigodeconducta.md
 [16]: https://github.com/nodeschool/buenosaires/pulls
+[17]: http://imageshack.com/a/img540/9691/lJkz0q.png
