@@ -1,12 +1,11 @@
 Sticker BA
 =========
 
-![alt tag](https://github.com/nodeschool/buenosaires/blob/master/sticker/nodeschool-sticker-arg-ver6.jpg) 
+![sticker](nodeschoolba-official.jpg)
 
 Agradecimientos
 ----
 
-Gracias al team de nodeschool por el template.
-by @eafelix
+Gracias al team de [Aerolab](https://aerolab.co/) por el diseño!
 
 **Free Software, Hell Yeah!**
