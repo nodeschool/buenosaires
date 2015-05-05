@@ -477,18 +477,8 @@ input::-moz-focus-inner {
 *****************************************************/
 
 .site-header {
-  background-color: #2b3848;
-  /** 
-  * Add your custom background image for a cool parallax effect.
-  * background-image:url('img/your-header-background-image.png')
-  *****************/
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   width: 100%;
   color: #fff;
-  border-top: 5px solid #20b24b;
   text-shadow: 0 2px 2px rgba(0,0,0,0.6);
 }
 
@@ -764,14 +754,10 @@ a {
 }
 
 .site-header {
-  border-top: 0px solid #FFFFFF;
-  background-color: #F7F7F7;
+  border: 0;
   text-shadow: none;
   color: black;
-  background-position: 48.4% 0px;
-  background-image: url("../img/cityscape.jpg");
-  background-size: 166% auto;
-  background-repeat: no-repeat;
+  background: url("../img/cityscape.jpg") no-repeat center top;
 }
 
 .section-signup {
