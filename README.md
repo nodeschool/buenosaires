@@ -46,6 +46,7 @@ Nombre                  | Descripción
 [BAFrontend][12]            | Front-End User Group en Buenos Aires
 [Beer.js Buenos Aires][18]  | Dónde se encuentra la cerveza con JavaScript
 [BANode.js][19]             | Comunidad de Node.js en Buenos Aires
+[BurgerJS] [20]             | Meetup para amantes de las hamburguesas y JS
 
 ## Código de Conducta
 
@@ -70,3 +71,4 @@ Encontralo [acá][15].
 [17]: https://imageshack.com/a/img540/9691/lJkz0q.png
 [18]: https://www.meetup.com/Beer-js-Buenos-Aires/
 [19]: https://www.meetup.com/BANode-Meetup/
+[20]: https://www.meetup.com/es/burgerjs
